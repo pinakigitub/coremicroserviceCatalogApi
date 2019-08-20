@@ -1,0 +1,14 @@
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.deps.json
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.runtimeconfig.json
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.runtimeconfig.dev.json
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.dll
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\CatalogApi\bin\Debug\netcoreapp2.1\CatalogApi.pdb
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.csproj.CoreCompileInputs.cache
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.RazorAssemblyInfo.cache
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.RazorAssemblyInfo.cs
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\CatalogApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.AssemblyInfoInputs.cache
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.AssemblyInfo.cs
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.RazorTargetAssemblyInfo.cache
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.dll
+C:\Users\mohapap\source\repos\JWTAuthinmicroservices\CatalogApi\obj\Debug\netcoreapp2.1\CatalogApi.pdb
